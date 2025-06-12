@@ -16,9 +16,9 @@ Bazı stiller bazı tarayıcılarda garip veya bozuk görünebilir. Unicode böy
 Unicode is strange. Enjoy the chaos.
 
 
-TEXTILE — Esoteric Styling Language
+t3X_Xtt-C0n — Esoteric Styling Language
 
-Textile is a weird esolang for styling text with various facemoji/unicode fonts in the browser.
+t3X_Xtt-C0n is a weird esolang for styling text with various facemoji/unicode fonts in the browser.
 
 Syntax:
   say [style] [text]
@@ -41,9 +41,9 @@ Created by blah-bla-blah-1
 
 ===
 
-TEXTILE — Эзотерический язык стилизации текста
+t3X_Xtt-C0n — Эзотерический язык стилизации текста
 
-Textile — это странный язык программирования для стилизации текста с помощью юникод-стилей (facemoji).
+t3X_Xtt-C0n — это странный язык программирования для стилизации текста с помощью юникод-стилей (facemoji).
 
 Синтаксис:
   say [стиль] [текст]
@@ -56,7 +56,7 @@ Textile — это странный язык программирования д
   say block ХУЙ
 
 Как использовать:
-1. Открой textile.html в браузере
+1. Открой t3X_Xtt-C0n.html в браузере
 2. Введи код в текстовое поле
 3. Нажми RUN
 
@@ -66,9 +66,9 @@ Textile — это странный язык программирования д
 
 ===
 
-TEXTILE — Езотерична мова стилізації тексту
+t3X_Xtt-C0n — Езотерична мова стилізації тексту
 
-Textile — це дивна мова для стилізації тексту з допомогою unicode-фонтів.
+t3X_Xtt-C0n — це дивна мова для стилізації тексту з допомогою unicode-фонтів.
 
 Синтаксис:
   say [стиль] [текст]
@@ -91,9 +91,9 @@ Textile — це дивна мова для стилізації тексту з
 
 ===
 
-TEXTILE — Ezoterik Stil Dili
+t3X_Xtt-C0n — Ezoterik Stil Dili
 
-Textile, metni tarayıcıda unicode/facemoji yazı tipleriyle biçimlendiren garip bir esolang'dır.
+t3X_Xtt-C0n, metni tarayıcıda unicode/facemoji yazı tipleriyle biçimlendiren garip bir esolang'dır.
 
 Sözdizimi:
   say [stil] [metin]
@@ -118,7 +118,7 @@ Yapan: blah-bla-blah-1
 ===
 🌍 GLOBAL LANGUAGE SUPPORT
 
-Textile is easy to use even if this readme isn't in your native language.
+t3X_Xtt-C0n is easy to use even if this readme isn't in your native language.
 
 If you'd like to help translate this file into your language — Swahili, Hindi, Chinese, Arabic, Japanese, Indonesian, Filipino, Korean, Thai, Zulu, Yoruba, Navajo, Quechua, Māori, or any others — contributions are welcome!
 
